@@ -1,0 +1,8 @@
+{
+  "react-native": {
+    "analytics_auto_collection_enabled": true,
+    "ml_natural_language_smart_reply_model": true,
+    "ml_natural_language_language_id_model": true,
+    "admob_android_app_id": "ca-app-pub-1669992514548110~2168849911"
+  }
+}

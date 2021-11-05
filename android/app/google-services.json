@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227012835100",
+    "project_id": "thereforyou1234509876",
+    "storage_bucket": "thereforyou1234509876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227012835100:android:01466000732bdda86cacd9",
+        "android_client_info": {
+          "package_name": "com.mufungogeeks.tfy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227012835100-59ist73lca9bit7conbgkf8n64irqo2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbWJYEs_1MoffG2kIR858gXtNi05gu2gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227012835100-59ist73lca9bit7conbgkf8n64irqo2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
